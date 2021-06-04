@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trackndtraceapp</string>
+    <string-array name="userType">
+        <item>user</item>
+        <item>admin</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
